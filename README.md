@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Yong-Su Lee
+## 👋 Hi, I'm Min-Seok Choi
 Backend Developer | Java · Spring Boot · React · PostgreSQL
 
 ## About Me
@@ -34,12 +34,12 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
   → 대용량 CRUD, 북마크, 마크다운 에디터 등 
 
 ## 📫 Contact  
-- Email: dydtn61498@naver.com  
-- Blog: [https://velog.io/SpringAuto](https://velog.io/@dydtn61498/posts)
+- Email: jimey104@naver.com  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeytkfng&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimey104&layout=compact)
 
 ## 🧠 Dev Mindset  
 > "Jsut do it , Instead of ovetthinking."  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leeytkfng&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jimey104&theme=default)](https://git.io/streak-stats)
