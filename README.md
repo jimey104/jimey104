@@ -16,10 +16,9 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 | **⚙️ Infra & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)|
   
 ## 🚀 Projects  
-- [항공편 예약 시스템](https://github.com/leeytkfng/flight-reservation)  
+- [항공편 예약 시스템](https://github.com/MSA-Flight-Service/Flight-Service)  
   → 마이크로서비스 기반 항공권 예약 시스템
-- [블로그 플랫폼](https://github.com/leeytkfng/blog-platform)  
-  → 대용량 CRUD, 북마크, 마크다운 에디터 등 
+
 
 ## 📫 Contact  
 - Email: jimey104@naver.com  
