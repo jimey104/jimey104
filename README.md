@@ -8,11 +8,16 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 
 ## 🛠 Tech Stack
 
-### 💻 Backend  
+| **Category**       | **Technologies** |
+|--------------------|----------------|
+| **💻 Backend**    |
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+|
+
+
 
 ### 🧑‍🎨 Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
