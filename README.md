@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Min-Seok Choi
 Backend Developer | Java · Spring Boot · React · PostgreSQL
+- Email: jimey104@naver.com  
 
 ## About Me
 - 마이크로서비스 아키텍처 기반 프로젝트 경험
@@ -22,9 +23,6 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 - [공연 예매 시스템](https://github.com/jimey104/MSA-Perpomance-Service)  
   → 마이크로서비스 기반 공연 예매 시스템
 
-## 📫 Contact  
-- Email: jimey104@naver.com  
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimey104&layout=compact)
 
@@ -32,3 +30,6 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 > "Jsut do it , Instead of ovetthinking."  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jimey104&theme=default)](https://git.io/streak-stats)
+
+## 📫 Contact  
+- Email: jimey104@naver.com  
