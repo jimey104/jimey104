@@ -19,7 +19,7 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 - [항공편 예약 시스템](https://github.com/MSA-Flight-Service/Flight-Service)  
   → 마이크로서비스 기반 항공권 예약 시스템
   
-- [공연 예매 시스템](https://github.com/jimey104/MSA-Perpomance-Service)
+- [공연 예매 시스템](https://github.com/jimey104/MSA-Perpomance-Service)  
   → 마이크로서비스 기반 공연 예매 시스템
 
 ## 📫 Contact  
