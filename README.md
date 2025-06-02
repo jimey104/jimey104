@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Min-Seok Choi
 Backend Developer | Java · Spring Boot · React · PostgreSQL
-- Email: jimey104@naver.com  
+jimey104@naver.com  
 
 ## About Me
 - 마이크로서비스 아키텍처 기반 프로젝트 경험
